@@ -4,4 +4,4 @@ This is the repostiory for this project. Hi, graders!
 
 ## HEADERS ARE FUN
 
-Authors: Logan Cooper, Johm Simpson
+Authors: Logan Cooper, John Simpson
