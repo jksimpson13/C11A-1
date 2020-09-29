@@ -5,6 +5,10 @@ import javax.swing.JPanel;
 
 
 public class MyDrawing extends JPanel {
+	/**
+     *  This makes an error no longer exist.
+     */
+    private static final long serialVersionUID = 1L;
 	private Cat cat;
 	public MyDrawing() 
 	{

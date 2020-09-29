@@ -1,6 +1,4 @@
-import javax.swing.JPanel;
 import java.awt.*;
-import java.awt.geom.*;
 
 public class Cat {
 	// drawing constants are private - noone needs to know what we're doing
@@ -37,7 +35,7 @@ public class Cat {
 		x += EYE_SEPARATION;
 		g2.fillOval(x, y, EYE_WIDTH, EYE_HEIGHT);
 		// Draw the mouth
-		g2.setColor(Color.pink);
+		g2.setColor(Color.red);
 		x = catX + MOUTH_X;
 		y = catY + MOUTH_Y;
 		g2.fillOval(x, y, MOUTH_WIDTH, MOUTH_HEIGHT);
